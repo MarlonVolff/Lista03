@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Exercicio05 {
     public static void executar() {
         Scanner leitor = new Scanner(System.in);
+        
         Compra compra = new Compra();
 
         System.out.print("Digite o valor da compra: ");
