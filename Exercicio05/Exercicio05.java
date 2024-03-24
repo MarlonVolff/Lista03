@@ -7,10 +7,10 @@ public class Exercicio05 {
         Compra compra = new Compra();
 
         System.out.print("Digite o valor da compra: ");
-        double valorCompra = leitor.nextDouble();
+        compra.valorCompra = leitor.nextDouble();
 
-        double valorPrestacao = compra.calcularPrestacoes();
-        System.out.println("O valor de cada prestação é: R$" + valorPrestacao);
+        compra.valorCompra = compra.calcularPrestacoes();
+        System.out.println("O valor de cada prestação é: R$" + compra.valorCompra);
 
         leitor.close();
     }

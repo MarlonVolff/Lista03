@@ -3,12 +3,14 @@ package Exercicio05;
 public class Compra {
 
     public double valorTotal;
+    public double valorCompra;
+    public double valorPrestacao;
 
-    public Compra() {
-        this.valorTotal = valorTotal;
-    }
+    // public Compra() {
+    //     this.valorTotal = valorTotal;
+    // }
 
     public double calcularPrestacoes() {
-        return valorTotal / 5;
+        return valorCompra / 3.0;
     }
 }
