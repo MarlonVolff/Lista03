@@ -30,7 +30,7 @@ public class Exercicio13 {
                 System.out.println("Apto para o serviço militar obrigatório.");
                 totalAptos++;
             } else {
-                System.out.println("Não apto para o serviço militar obrigatório.");
+                System.out.println("Não esta apto para o serviço militar obrigatório.");
                 totalInaptos++;
             }
         }

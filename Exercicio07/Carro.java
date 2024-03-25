@@ -1,7 +1,6 @@
 package Exercicio07;
 
 public class Carro {
-
     public double custoFabrica;
 
     public Carro(double custoFabrica) {
