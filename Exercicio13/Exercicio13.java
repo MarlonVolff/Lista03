@@ -37,7 +37,6 @@ public class Exercicio13 {
 
         System.out.println("\nTotal de pessoas aptas: " + totalAptos);
         System.out.println("Total de pessoas inaptas: " + totalInaptos);
-
         leitor.close();
     }
 }

@@ -35,7 +35,6 @@ public class Exercicio18 {
             double salarioLiq = salario + abono;
             System.out.println("Funcionário: "+nome);
             System.out.println("Salário Liquido"+salarioLiq);
-
         leitor.close();
     }
 }
