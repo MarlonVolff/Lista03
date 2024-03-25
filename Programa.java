@@ -1,4 +1,4 @@
-import Exercicio15.Exercicio15;
+import Exercicio16.Exercicio16;
 
 public class Programa{
     public static void main(String[] args){
@@ -17,6 +17,7 @@ public class Programa{
         //Exercicio12.executar();
         //Exercicio13.executar();
         //Exercicio14.executar();
-        Exercicio15.executar();
+        //Exercicio15.executar();
+        Exercicio16.executar();
    }
 }
