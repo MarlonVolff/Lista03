@@ -2,7 +2,7 @@ package Exercicio18;
 import java.util.Scanner;
 
 public class Exercicio18 {
-    public void exercicio18(){
+    public static void executar(){
         Scanner leitor = new Scanner(System.in);
         Abono a = new Abono();
 
